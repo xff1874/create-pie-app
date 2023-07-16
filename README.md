@@ -18,7 +18,7 @@ The stack includes
 ## Getting Started
 
 ```
-npm run create-pie-app my-pie-app
+npx create-pie-app my-pie-app
 ```
 
 ## customization
