@@ -1,7 +1,7 @@
 {
   "name": "create-pie-app",
   "version": "1.0.0",
-  "description": "create js project easliy",
+  "description": "create a vanilla typescript project easliy",
   "main": "index.js",
   "scripts": {
     "build": "tsup",
@@ -19,6 +19,9 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/"
   },
   "author": {
     "name": "dongdong zhang",
