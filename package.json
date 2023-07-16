@@ -21,7 +21,7 @@
     "node": ">=18"
   },
   "publishConfig": {
-    "registry": "https://www.npmjs.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "author": {
     "name": "dongdong zhang",
