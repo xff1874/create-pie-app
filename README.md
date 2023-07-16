@@ -13,6 +13,7 @@ The stack includes
 - install dependencies
 - gitignore
 - typescript(ESM)
+- typescript alias using @
 
 
 ## Getting Started

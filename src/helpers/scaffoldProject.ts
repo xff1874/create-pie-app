@@ -26,10 +26,10 @@ export const scaffoldProject = async ({
     spinner.start();
     fs.copySync(tpl, projectDir);
 
-    // fs.renameSync(
-    //     path.join(projectDir, "_gitignore"),
-    //     path.join(projectDir, ".gitignore")
-    // );
+    fs.renameSync(
+        path.join(projectDir, "_gitignore"),
+        path.join(projectDir, ".gitignore")
+    );
 
     const scaffoldedName = chalk.cyan.bold(projectName);
 
