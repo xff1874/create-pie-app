@@ -19,7 +19,7 @@ The stack includes
 ## Getting Started
 
 ```
-npx create-pie-app my-pie-app
+npx create-pie-app@latest my-pie-app
 ```
 
 ## customization
